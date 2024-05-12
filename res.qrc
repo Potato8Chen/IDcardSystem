@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="pho">
+    <file>phres/login.png</file>
+    <file>phres/computer.png</file>
+    <file>phres/loginpic.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>phres/icon/eventlist.png</file>
+    <file>phres/icon/mypage.png</file>
+    <file>phres/icon/webpage.png</file>
+    <file>phres/icon/advicepage.png</file>
+    <file>phres/icon/homepage.png</file>
+    <file>phres/icon/list.png</file>
+    <file>phres/icon/check.png</file>
+    <file>phres/icon/user-switch.png</file>
+    <file>phres/icon/search.png</file>
+    <file>phres/icon/user-add.png</file>
+    <file>phres/icon/user-delete.png</file>
+    <file>phres/icon/reload.png</file>
+    <file>phres/icon/添加增加加入.png</file>
+    <file>phres/icon/colse.png</file>
+    <file>phres/icon/delete_white.png</file>
+    <file>phres/icon/me.png</file>
+    <file>phres/icon/home.png</file>
+    <file>phres/icon/back.png</file>
+    <file>phres/icon/line.png</file>
+    <file>phres/icon/delete.png</file>
+    <file>phres/icon/logintopleft.png</file>
+  </qresource>
+</RCC>
